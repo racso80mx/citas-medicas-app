@@ -1,0 +1,7 @@
+{
+    "name": "imss/citas-app",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.9"
+    }
+}
