@@ -30,6 +30,7 @@ $catalogo_modulos = [
     'laboratorio'          => ['url' => 'laboratorio.php', 'icon' => 'fa-flask', 'title' => 'Laboratorio'],
     'rayosx'               => ['url' => 'rayosx.php', 'icon' => 'fa-x-ray', 'title' => 'Rayos X'],
     'ultrasonido'          => ['url' => 'ultrasonido.php', 'icon' => 'fa-satellite-dish', 'title' => 'Ultrasonido'],
+    'psicologia'           => ['url' => 'psicologia.php', 'icon' => 'fa-brain', 'title' => 'Psicología'], // <-- NUEVO MÓDULO AÑADIDO
     'farmacia'             => ['url' => 'farmacia.php', 'icon' => 'fa-pills', 'title' => 'Farmacia'],
     'ingresos'             => ['url' => 'ingresos.php', 'icon' => 'fa-bed-pulse', 'title' => 'Ingresos'],
     'citas_clinica'        => ['url' => 'citas_clinica.php', 'icon' => 'fa-hospital-user', 'title' => 'Citas de Clínica'],
@@ -38,7 +39,7 @@ $catalogo_modulos = [
     'trabajo_social'       => ['url' => 'trabajo_social.php', 'icon' => 'fa-handshake-angle', 'title' => 'Trabajo Social'],
     'jefatura_enfermeria'  => ['url' => 'jefatura_enfermeria.php', 'icon' => 'fa-user-nurse', 'title' => 'Jefatura de Enfermería'],
     'central_enfermeria'   => ['url' => 'central_enfermeria.php', 'icon' => 'fa-notes-medical', 'title' => 'Central de Enfermería']
-    ];
+];
 ?>
 <!DOCTYPE html>
 <html lang="es">

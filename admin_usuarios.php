@@ -205,6 +205,7 @@ $catalogo_modulos = [
     'laboratorio'       => 'Laboratorio',
     'rayosx'            => 'Rayos X',
     'ultrasonido'       => 'Ultrasonido',
+    'psicologia'        => 'Psicología', 
     'farmacia'          => 'Farmacia',
     'hospitalizacion'   => 'Ingresos',
     'registro_citas'    => 'Registro de Citas',
